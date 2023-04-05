@@ -1,4 +1,5 @@
 import os
+
 '''
 Simple shop  cart algorithm
 '''
@@ -45,4 +46,3 @@ while True:
 
     elif option == 4:
         exit()
-
